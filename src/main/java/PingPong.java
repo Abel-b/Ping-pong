@@ -1,7 +1,5 @@
-import sun.tools.jconsole.inspector.XObject;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class PingPong {
 
